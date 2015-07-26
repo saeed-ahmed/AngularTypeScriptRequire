@@ -29,7 +29,6 @@ module SalesModule {
             var vm = this;
             //vm.userName = "abc...";
             vm.$rootScope.$on("rootScope:Login", (event, data) => {
-                //alert("ddddd");
                 vm.userName = data.UserName;
             });
 

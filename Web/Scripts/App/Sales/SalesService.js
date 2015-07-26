@@ -8,19 +8,9 @@ var SalesModule;
             this.init();
         }
         SalesService.prototype.init = function () {
-            //console.log("dddd");
-            //this.salesList = new Array<SalesModule.Sales>();
         };
         SalesService.prototype.getAllSales = function () {
-            //call to service..
-            //var arrSales: Array<SalesModule.Sales> = [
-            //    { Summary: "ePOS POS", Type: "POS", Value: 10, Site: "Head Office", Status: "Paid" },
-            //    { Summary: "CS25 Booking - 1451", Type: "Booking", Value: 100, Site: "Head Office", Status: "Paid" },
-            //    { Summary: "CS26 Booking - 1453", Type: "Booking", Value: 200, Site: "Head Office", Status: "Paid" },
-            //    { Summary: "ePOS POS", Type: "POS", Value: 20, Site: "Head Office", Status: "Unpaid" },
-            //    { Summary: "ePOS POS", Type: "POS", Value: 120, Site: "Head Office", Status: "Unpaid" },
-            //];
-            //return arrSales;
+            //call to service..           
             return this.$http.get("http://localhost/ngTypeApp/Api/Sales/all").then(function (response) {
                 return response.data;
             }, function (error) {
