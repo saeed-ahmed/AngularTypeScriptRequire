@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <title>TypeScript HTML App</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-ui-router.min.js"></script>
+    <script src="Scripts/require.js"></script>
+    
+
+</head>
+<body>
+    <div ui-view="HeaderView"></div>
+    
+
+    <div ui-view="MainView"></div>
+
+    <script src="app.js"></script>
+    <!--<script src="Scripts/App/Sales/SalesCtrl.js"></script>
+    <script src="Scripts/App/Sales/SalesService.js"></script>-->
+    <script src="Scripts/App/Login/LoginCtrl.js"></script>
+    <script src="Scripts/App/Login/LoginService.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\Research Project\AngularTypescriptApp\Web\bin\Web.dll.config
+C:\Research Project\AngularTypescriptApp\Web\bin\Web.dll
+C:\Research Project\AngularTypescriptApp\Web\bin\Web.pdb
+C:\Research Project\AngularTypescriptApp\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Research Project\AngularTypescriptApp\Web\obj\Debug\Web.dll
+C:\Research Project\AngularTypescriptApp\Web\obj\Debug\Web.pdb

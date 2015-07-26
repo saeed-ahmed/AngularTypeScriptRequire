@@ -1,0 +1,5 @@
+C:\Research Project\AngularTypescriptApp\Dto\bin\Debug\Dto.dll
+C:\Research Project\AngularTypescriptApp\Dto\bin\Debug\Dto.pdb
+C:\Research Project\AngularTypescriptApp\Dto\obj\Debug\Dto.dll
+C:\Research Project\AngularTypescriptApp\Dto\obj\Debug\Dto.pdb
+C:\Research Project\AngularTypescriptApp\Dto\obj\Debug\Dto.csprojResolveAssemblyReference.cache

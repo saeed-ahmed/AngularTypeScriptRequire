@@ -1,0 +1,21 @@
+﻿<div>
+    <h2>Sales Module...</h2>
+    <table class="table" ng-controller="SalesCtrl as ctrl">
+        <thead>
+            <tr class="info">
+                <td>Summary</td>
+                <td>Type</td>
+                <td>Value</td>
+                <td>Status</td>
+                <td>Site</td>
+            </tr>
+        </thead>
+        <tr ng-repeat="sale in ctrl.salesList">
+            <td>{{sale.Summary}}</td>
+            <td>{{sale.Type}}</td>
+            <td>{{sale.Value}}</td>
+            <td>{{sale.Status}}</td>
+            <td>{{sale.Site}}</td>
+        </tr>
+    </table>
+</div>

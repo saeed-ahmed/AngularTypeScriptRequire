@@ -1,0 +1,7 @@
+C:\Research Project\AngularTypescriptApp\Dal\bin\Debug\Dal.dll
+C:\Research Project\AngularTypescriptApp\Dal\bin\Debug\Dal.pdb
+C:\Research Project\AngularTypescriptApp\Dal\bin\Debug\Dto.dll
+C:\Research Project\AngularTypescriptApp\Dal\bin\Debug\Dto.pdb
+C:\Research Project\AngularTypescriptApp\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Research Project\AngularTypescriptApp\Dal\obj\Debug\Dal.dll
+C:\Research Project\AngularTypescriptApp\Dal\obj\Debug\Dal.pdb
